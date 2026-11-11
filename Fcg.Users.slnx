@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="src/Fcg.Users.API/Fcg.Users.API.csproj" />
+  <Project Path="src/Fcg.Users.Application/Fcg.Users.Application.csproj" />
+  <Project Path="src/Fcg.Users.Domain/Fcg.Users.Domain.csproj" />
+  <Project Path="src/Fcg.Users.Infrastructure/Fcg.Users.Infrastructure.csproj" />
+  <Project Path="tests/Fcg.Users.Application.Tests/Fcg.Users.Application.Tests.csproj" />
+  <Project Path="tests/Fcg.Users.Domain.Tests/Fcg.Users.Domain.Tests.csproj" />
+  <Project Path="tests/Fcg.Users.Integration.Tests/Fcg.Users.Integration.Tests.csproj" />
+</Solution>
